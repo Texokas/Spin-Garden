@@ -1,6 +1,0 @@
-python-telegram-bot==20.7
-python-dotenv==1.0.0
-SQLAlchemy==2.0.23
-aiohttp==3.9.1 --only-binary :all:
-pyOpenSSL==23.3.0
-aiohttp-cors==0.8.0
